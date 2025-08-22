@@ -9,7 +9,7 @@ Project for IFR on a solution to control the ship with autopilot or assit with p
 **ASSIST**:  
 **A**dvanced  
 **S**cripting
-**S**ystem for
+**S**ystem for	
 **I**nstructing and  
 **S**cheduling  
 **T**asks  
