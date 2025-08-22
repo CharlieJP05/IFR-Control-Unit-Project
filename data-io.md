@@ -36,9 +36,10 @@ Each part is dealt in words:
 word | word  
 word | word  
 word | word  
+word | word  
 ```  
 
-This gives 5 data words and 1 instruction word. However, the instruction word does contain metadata (signed, etc.).  
+This gives 7 data words and 1 instruction word. However, the instruction word does contain metadata (signed, etc.).  
 
 ---
 
