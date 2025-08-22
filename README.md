@@ -2,7 +2,17 @@
 
 ## Project Summary
 
-The Control Unit project explores an alternate type of CPU that operates on vector-based instructions rather than traditional arithmetic operations. It focuses on unique instruction sets tailored for specific tasks, such as `face xyz`, `thrust main`, and `dampen on`.
+Project for IFR on a solution to control the ship with autopilot or assit with programs that can be run, but not on a typcial CPU, but one with mroe specified tasks to keep it running in real time
+
+
+
+**ASSIST**:  
+**A**dvanced  
+**S**cripting
+**S**ystem for
+**I**nstructing and  
+**S**cheduling  
+**T**asks  
 
 ---
 
