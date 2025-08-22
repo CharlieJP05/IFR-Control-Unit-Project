@@ -11,6 +11,10 @@ Take `0101` to mean "rotate to":
 0000 0000 0000 0000 | 1010 0101 0110 1010
 ```
 
-- First byte is the instruction.
-- Fourth byte represents signs: `+x -y -z +w`.
-- Right bits are signed data for x, y, z, w based on the signed bit.
+- First nibble in first word is the instruction.
+- Fourth nibble in first word represents signs: `+x -y -z +w`. 0=+ 1=- by 2sCompliment rules
+- Right side words are signed data for x, y, z, w based on the signed bit.
+
+---
+
+[Back to README](./README.md)
